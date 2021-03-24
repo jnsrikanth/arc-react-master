@@ -1,0 +1,36 @@
+.axis text {
+  font: 10px sans-serif;
+}
+
+.axis line, .axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis--x path {
+  display: none;
+}
+
+.xAxis {
+  margin-top: 10;
+  opacity: 0.2;
+}
+
+.yAxis {
+  margin-right: 10px;
+  opacity: 0.2;
+}
+
+.rect1 {
+  background-color: rgb(108,49,154);
+}
+
+.rect2 {
+  background-color: rgb(108,49,154);
+}
+
+.lableContainer{
+  display: flex;
+  flex-direction: row;
+}

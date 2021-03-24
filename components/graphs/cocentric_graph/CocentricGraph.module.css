@@ -1,0 +1,25 @@
+
+
+.graphContainer {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.cocentricContainer {
+    display: flex;
+    flex: 2;
+    height: 100%;
+}
+
+.lableCocentricContaier {
+    margin: 5px 10px 5px 0px;
+}
+
+.lableCocentricContaierParent {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}

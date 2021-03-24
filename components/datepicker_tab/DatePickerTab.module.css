@@ -1,0 +1,28 @@
+.DateInput_input {
+    font-weight: 200;
+    font-size: 14px;
+    background-color: transparent;
+    background-color: rgb(33, 33, 33);
+    line-height: 24px;
+    color: rgba(255,255,255,0.4);
+    /* background-color: #fff; */
+    width: 100%;
+    padding: 0px 0px 0px;
+}
+
+.DateRangePickerInput {
+    background-color: rgb(33, 33, 33);
+    display: inline-block;
+    padding: 3px 3px;
+    width: 100% !important;
+   
+}
+
+  
+
+.DateRangePickerInput__withBorder {
+    border-radius: 30px;
+    border: 1px solid #dbdbdb;
+    border-color: rgba(255,255,255,0.4);
+    width: 100% !important;
+}

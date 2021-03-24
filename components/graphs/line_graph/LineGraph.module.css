@@ -1,0 +1,30 @@
+
+.grid .tick {
+    stroke: lightgrey;
+    opacity: 0.7;
+  }
+  
+  .grid path {
+    stroke-width: 0;
+  }
+  
+  
+  .grid .tick {
+    stroke: lightgrey;
+    opacity: 0.3;
+  }
+  .grid path {
+      stroke-width: 0;
+  }
+
+ g .tick line {
+    stroke: lightgrey;
+    opacity: 0.2;
+  }
+
+  .lableContainerLine {
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+  }
+
