@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<script>
+    const ws = new WebSocket("ws://52.44.253.60:9999/face_features");
+    ws.onopen(function(e){
+        console.log("Connected")
+    });
+    ws.onerror(function(e){
+        console.log("Error")
+    })
+</script>
+
+</html>
