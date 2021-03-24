@@ -1,0 +1,12 @@
+.arc-model .modal-dialog .modal-content{
+    border-radius: 30px;
+    border: 15px solid #2C2C2C;
+    background: #212121 !important;
+}
+.modal .modal-dialog .modal-content .modal-header{
+    background: #212121 !important;
+    border-radius: 30px;
+}
+.modal .modal-dialog .modal-content .modal-footer{
+    border-top: 0px solid #000;
+}
