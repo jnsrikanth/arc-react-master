@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Acrom';
+    src: local('Acrom Medium'), local('Acrom-Medium'),
+        url('Acrom-Medium.woff2') format('woff2'),
+        url('Acrom-Medium.woff') format('woff'),
+        url('Acrom-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
